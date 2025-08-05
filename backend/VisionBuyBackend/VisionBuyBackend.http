@@ -1,0 +1,6 @@
+@VisionBuyBackend_HostAddress = http://localhost:5043
+
+GET {{VisionBuyBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
